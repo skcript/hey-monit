@@ -12,6 +12,8 @@ Using these scripts
 
 All you have to do is to copy paste these scripts into the `conf.d` folder of your `monit` installation. For Debian based systems, you will have to paste the scripts in `/etc/monit/conf.d/`
 
+After copying the configuration files that you need, make sure you do `monit reload` and check if the script has loaded by issuing `monit status` command. 
+
 Getting Help
 ------------
 
