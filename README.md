@@ -2,6 +2,11 @@
 
 Essential monit configuration scripts to have your Rails based server neat, tidy and healthy.
 
+Knowing these scripts better
+----------------------------
+
+Please know that these scripts are just basic configuration scripts. Many of these are without any alert mechanism in them. These are the scripts that we use in Production to monitor our clusters.
+
 Using these scripts
 -------------------
 
